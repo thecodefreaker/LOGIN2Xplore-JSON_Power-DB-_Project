@@ -1,0 +1,26 @@
+#container{
+    color: antiquewhite;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -15em;
+    border: 1px solid rgb(242, 191, 191);
+    background-color: #332d2d;
+    border: activecaption;
+}
+#container a{
+    color:rgb(205, 238, 171);
+}
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+#json{
+    color: rgb(241, 185, 79);
+    text-decoration: wavy;
+    text-decoration:double;
+
+}
